@@ -1,0 +1,47 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "madhu" 4 times.(ëÓÑÄÿÿÿÿÿ8êŸÚÅ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü’á–8¨ ÚÅ1
+Y
+java:S1854"7Remove this useless assignment to local variable "ap2".(òµğ¸ùÿÿÿÿ8 ¡ÚÅ1
+T
+java:S1854"7Remove this useless assignment to local variable "al1".(âïŒ8¢¡ÚÅ1
+Y
+java:S1854o"7Remove this useless assignment to local variable "alp".(ç¿Òøÿÿÿÿ8±ÂàÅ1
+E
+java:S1481"(Remove this unused "al1" local variable.(âïŒ8²¡ÚÅ1
+J
+java:S1481"(Remove this unused "ap2" local variable.(òµğ¸ùÿÿÿÿ8¶¡ÚÅ1
+L	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8½¡ÚÅ1
+L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Á¡ÚÅ1
+G	java:S106"+Replace this use of System.out by a logger.(²æ¨‡8Ä¡ÚÅ1
+L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8É¡ÚÅ1
+L	java:S106""+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Ò¡ÚÅ1
+L	java:S106'"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8Õ¡ÚÅ1
+G	java:S106)"+Replace this use of System.out by a logger.(ÇèŞ”8Ö¡ÚÅ1
+L	java:S106+"+Replace this use of System.out by a logger.(óôª–úÿÿÿÿ8Ú¡ÚÅ1
+L	java:S106."+Replace this use of System.out by a logger.(ğˆ‰øÿÿÿÿ8Ş¡ÚÅ1
+G	java:S106/"+Replace this use of System.out by a logger.(Ç¹Ùé8á¡ÚÅ1
+G	java:S1062"+Replace this use of System.out by a logger.(áĞİî8ç¡ÚÅ1
+L	java:S106<"+Replace this use of System.out by a logger.(ãŒÂÔøÿÿÿÿ8ì¡ÚÅ1
+G	java:S106B"+Replace this use of System.out by a logger.(Éê—8ò¡ÚÅ1
+G	java:S106D"+Replace this use of System.out by a logger.(Éê—8õ¡ÚÅ1
+G	java:S106H"+Replace this use of System.out by a logger.(Éê—8ö¡ÚÅ1
+G	java:S106L"+Replace this use of System.out by a logger.(‹¤·Ñ8ø¡ÚÅ1
+G	java:S106T"+Replace this use of System.out by a logger.(Å÷±ó8ü¡ÚÅ1
+G	java:S106U"+Replace this use of System.out by a logger.(ï»Õ8€¢ÚÅ1
+L	java:S106Z"+Replace this use of System.out by a logger.(¸°¤ÿÿÿÿÿÿ8„¢ÚÅ1
+F	java:S106^"+Replace this use of System.out by a logger.(ó¨İ_8‡¢ÚÅ1
+G	java:S106a"+Replace this use of System.out by a logger.(Œ­ÿ…8‹¢ÚÅ1
+G	java:S106c"+Replace this use of System.out by a logger.(ã’ÁÙ8¢ÚÅ1
+L	java:S106f"+Replace this use of System.out by a logger.(ØøŸªøÿÿÿÿ8‘¢ÚÅ1
+G	java:S106g"+Replace this use of System.out by a logger.(ó†Û÷8”¢ÚÅ1
+G	java:S106j"+Replace this use of System.out by a logger.(ˆºï¿8™¢ÚÅ1
+]
+java:S1612j"@Replace this lambda with method reference 'System.out::println'.(ˆºï¿8œ¢ÚÅ1
+G	java:S106j"+Replace this use of System.out by a logger.(ˆºï¿8¢ÚÅ1
+L	java:S106m"+Replace this use of System.out by a logger.(ì½İ®ÿÿÿÿÿ8¡¢ÚÅ1
+G
+java:S2116m"%Use "Arrays.toString(array)" instead.(ì½İ®ÿÿÿÿÿ8¼ÂÛÅ1
+J
+java:S1481o"(Remove this unused "alp" local variable.(ç¿Òøÿÿÿÿ8ÊÂàÅ1
