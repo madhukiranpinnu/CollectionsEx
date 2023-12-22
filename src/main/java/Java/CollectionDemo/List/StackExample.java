@@ -18,7 +18,7 @@ public class StackExample {
         s.pop();
         System.out.println(s);
         //is empty
-        //if empty it will print true
+        //if empty it will print true2
         System.out.println(s.isEmpty());
         //search
         //it will search for the element
