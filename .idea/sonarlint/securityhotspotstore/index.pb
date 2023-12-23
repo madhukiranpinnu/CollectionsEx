@@ -75,3 +75,5 @@ W
 'src/main/java/Java/String/Program1.java,a\1\a1e67eb0b6b008e0ee2613298bb60f565e03fe21
 S
 #src/test/java/ProgramDEC22Pro1.java,2\f\2f62aa217b39630407b65d1bba1fa5ebe17b86ce
+S
+#src/test/java/ProgramDEC23Pro1.java,8\e\8ee01c4ed4162fbccb2584b3086efbc5d547c0c2
