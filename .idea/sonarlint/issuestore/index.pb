@@ -85,3 +85,5 @@ S
 #src/test/java/ProgramDEC24Pro3.java,f\8\f8e8b0b65c4b861abfb1340263b6ee2d54ace7b4
 S
 #src/test/java/ProgramDEC24Pro4.java,3\9\39aa9b632746598b9d24119ee1ea58d648d42647
+S
+#src/test/java/ProgramDEC24Pro5.java,b\3\b38627efde4b6b94f17707b548cf40cd114cac23
