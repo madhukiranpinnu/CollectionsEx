@@ -77,3 +77,11 @@ S
 #src/test/java/ProgramDEC22Pro1.java,2\f\2f62aa217b39630407b65d1bba1fa5ebe17b86ce
 S
 #src/test/java/ProgramDEC23Pro1.java,8\e\8ee01c4ed4162fbccb2584b3086efbc5d547c0c2
+S
+#src/test/java/ProgramDEC24Pro1.java,4\7\47306c7c774dd17cbc5219c3a4a4d15e470e9d9e
+S
+#src/test/java/ProgramDEC24Pro2.java,c\7\c783a05139d5901188cdfcc38e668c66af774dad
+S
+#src/test/java/ProgramDEC24Pro3.java,f\8\f8e8b0b65c4b861abfb1340263b6ee2d54ace7b4
+S
+#src/test/java/ProgramDEC24Pro4.java,3\9\39aa9b632746598b9d24119ee1ea58d648d42647
