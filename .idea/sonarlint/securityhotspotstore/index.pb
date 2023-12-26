@@ -95,11 +95,9 @@ S
 #src/test/java/ProgramDEC25Pro2.java,9\b\9b7bdf94eca87bad6234c3f05b6b667e5fed5701
 S
 #src/test/java/ProgramDEC25Pro3.java,8\3\83169f9a35b2c8c53e36f65e7a50e324a25d5e13
-Q
-!src/test/java/ProgramDECPro4.java,1\2\1293c79a13de3867913f75581e185372713be45b
-S
-#src/test/java/Program25DECPro4.java,a\5\a5877f099d7ed60ac878cd9cf82469a698df1b71
 S
 #src/test/java/ProgramDEC25Pro4.java,a\b\abdce2daf9bd5cf94555e3c3b1a3ab495d0bbe8b
 S
 #src/test/java/ProgramDEC25Pro5.java,a\f\afaa7ba4a720ad30f769b274eeabf61d0aaac8c2
+S
+#src/test/java/ProgramDEC26Pro1.java,9\d\9d07be6a0e3c60f344387137c18098616f3eeeca
