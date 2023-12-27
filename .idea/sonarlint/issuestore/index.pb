@@ -101,3 +101,5 @@ S
 #src/test/java/ProgramDEC25Pro5.java,a\f\afaa7ba4a720ad30f769b274eeabf61d0aaac8c2
 S
 #src/test/java/ProgramDEC26Pro1.java,9\d\9d07be6a0e3c60f344387137c18098616f3eeeca
+S
+#src/test/java/ProgramDEC27Pro1.java,2\8\2881c8512d8eced303396eafc6f14ea870c52d06
