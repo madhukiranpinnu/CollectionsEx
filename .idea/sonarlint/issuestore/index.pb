@@ -103,3 +103,9 @@ S
 #src/test/java/ProgramDEC26Pro1.java,9\d\9d07be6a0e3c60f344387137c18098616f3eeeca
 S
 #src/test/java/ProgramDEC27Pro1.java,2\8\2881c8512d8eced303396eafc6f14ea870c52d06
+S
+#src/test/java/ProgramDEC28Pro1.java,3\c\3c0dfaaa6f65377adcc185e14b35ea299b190bc9
+S
+#src/test/java/ProgramDEC28Pro2.java,f\8\f8e7d900ae2734978cff797ec5af2806aa91be9f
+S
+#src/test/java/ProgramDEC28Pro3.java,3\3\33aeb7b056257d755b3e235e4b55ed7f4f4d17ce
