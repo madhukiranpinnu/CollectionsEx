@@ -1,3 +1,5 @@
+package DEC2023;
+
 public class ProgramDEC24Pro3 {
     public static void main(String[] args) {
         //SecondLargest in Array

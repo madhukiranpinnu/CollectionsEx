@@ -1,3 +1,5 @@
+package DEC2023;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;

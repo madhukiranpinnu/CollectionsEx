@@ -1,3 +1,5 @@
+package DEC2023;
+
 import java.util.*;
 
 public class ProgramDEC22Pro1 {

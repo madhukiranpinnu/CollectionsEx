@@ -1,3 +1,5 @@
+package DEC2023;
+
 import java.util.Scanner;
 
 public class ProgramDEC25Pro1 {
