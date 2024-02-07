@@ -119,3 +119,17 @@ T
 $src/test/java/FEB2024/Feb5Prog1.java,3\4\340609b0a9fba9946ed95f380d3d31ca170a7ab7
 T
 $src/test/java/FEB2024/Feb5Prog2.java,f\d\fd8fb1eb44261d12f9ec015a58511c2937ffd49c
+T
+$src/test/java/FEB2024/Feb6Prog1.java,8\b\8b0fe5d81ca173938c5a4085954a540bae7cae51
+T
+$src/test/java/FEB2024/Feb7Prog1.java,6\0\6090930b1d27470686cce18199c5bf4cfa76b18f
+T
+$src/test/java/FEB2024/Feb7Prog2.java,6\9\69af6f6ca6bfcec5eb68022cfd663e784181225a
+T
+$src/test/java/FEB2024/Feb7Prog3.java,a\d\ad85b7de1d592cc626b4dc8dc3d1f06884d0fea1
+T
+$src/test/java/FEB2024/Feb7Prog4.java,d\9\d9a06cf1beef710167f95b5bddbfcb48cbcbae79
+T
+$src/test/java/FEB2024/Feb7Prog5.java,1\9\19d1f65abe2cc2f7acb6b9cc08680e71efe12593
+T
+$src/test/java/FEB2024/Feb7Prog6.java,5\9\59f02db7e076cd9ee32237d37c1acbf93e05bdae
